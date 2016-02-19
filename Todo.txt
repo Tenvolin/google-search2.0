@@ -1,0 +1,26 @@
+DONE-------	center text in search settings
+DONE-------	get rid of extra space to the right border of header
+DONE-------	line across page in search results
+DONE-------	fixed-space footer
+DONE-------	make every result div width match the height of its content(WHEN YOU'RE DONE)
+DONE-------	search results in content div
+DONE-------	give each result box a top+bottom margin space
+DONE-------	fix spacing between search-results and results
+DONE-------	add font/color to search-results
+DONE-------	extend footer to go underneath results - avoid overlapping
+DONE-------	add 6 suboptions of first 4chan link in results
+DONE-------	add small hr lines at end of every 3 result div
+DONE-------	add "searches related to 4chan" at end of result list
+DONE-------	center google logo
+DONE-------	add google pages remaining/results
+DONE-------	position next link
+DONE-------	centering and formatting page results
+	format size of titles and make titles go to different links
+	format searches related to chan
+	change .resultspages to links
+	Fix font and font-size of resultsstrip. Then shift searchbox and resultslist to the right a little bit
+	determine height of footer and background color
+	Shift 4chan extra options to the right
+	adding magnifying image to searchbar button
+	fix font size, color, and bolded "4chan" terms in each div .result 
+	fixed-space header 
